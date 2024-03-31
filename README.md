@@ -1,4 +1,6 @@
 Substitution Cipher Encryption
+
+
 This Python script demonstrates a simple substitution cipher encryption technique. Substitution ciphers replace each letter in the plaintext with another letter according to a key.
 
 How it Works
